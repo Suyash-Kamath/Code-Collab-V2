@@ -16,7 +16,7 @@
 ## Tech Stack
 - **Frontend**: React.js, Vite
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+
 - **Real-time Communication**: Socket.IO
 - **Drawing Feature**: tldraw
 - **Ports Used**:
@@ -28,12 +28,12 @@
 ### Prerequisites
 Ensure you have the following installed:
 - Node.js (>=16.x)
-- MongoDB (running locally or on a cloud provider)
+
 
 ### Steps to Run Locally
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/snjy-kumar/Code Collab-code-platform.git
+   git clone https://github.com/Suyash-Kamath/Code-Collab-V2.git
    cd Code Collab
    ```
 2. **Setup Backend**
@@ -51,13 +51,7 @@ Ensure you have the following installed:
 4. **Access the Application**
    Open `http://localhost:5173` in your browser.
 
-## Working of the Platform
-<!-- Integrate video -->
-The platform allows multiple users to collaborate on a single codebase in real-time. Here's a brief overview of the working:
 
-[Watch the video](https://www.youtube.com/watch?v=VUPAfBxv6zo&ab_channel=SanjayKumarThakur)
-   
-![Demo GIF](/client/public/ss/demo.gif)
 
 
 ## Screenshots
@@ -89,9 +83,8 @@ Here are some preview images showcasing the platform:
 4. Push to the branch: `git push origin feature-branch`
 5. Open a Pull Request.
 
-## License
-This project is licensed under the **MIT License**.
+
 
 ## Contact
-For queries or collaborations, reach out via email: `sanjay17126@gmail.com`
+For queries or collaborations, reach out via email: `suyashkamath9@gmail.com`
 
